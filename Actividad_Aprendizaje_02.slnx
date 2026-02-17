@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Actividad_Aprendizaje_02/Actividad_Aprendizaje_02.csproj" />
+  <Project Path="CRUD/CRUD.csproj" Id="ea200d03-5f59-44f2-9d32-97dfdd14a7ef" />
 </Solution>
